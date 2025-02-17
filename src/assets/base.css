@@ -59,8 +59,14 @@
 .filepond--root {
   /* min-height: 16em; */
   max-height: 24em;
+  margin-bottom: 0 !important;
+
 }
 
 .filepond--root .filepond--drop-label{
   min-height: 10em !important;
+}
+
+.filepond--credits{
+  display: none;
 }

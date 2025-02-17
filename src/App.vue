@@ -12,11 +12,11 @@
       </defs>
       <rect width="100%" height="100%" stroke-width="0" fill="url(#0787a7c5-978c-4f66-83c7-11c213f99cb7)" />
     </svg>
-    <div class="p-6 text-center flex-grow flex items-center justify-center">
+    <div class="md:p-6 text-center flex-grow flex items-center justify-center">
       
       <div class="">
     <!-- Title -->
-    <h1 class="mb-6 text-4xl font-extrabold leading-none tracking-tight text-gray-900 md:text-5xl lg:text-6xl "><mark class="px-2 pb-1 text-white bg-indigo-600 rounded-sm ">Image</mark> Compressor</h1>
+    <h1 class="mb-6 text-4xl font-extrabold tracking-tight text-gray-900 md:text-5xl lg:text-6xl "><mark class="px-2 pb-1 text-white bg-indigo-600 rounded-sm">Image</mark> Compressor</h1>
 <p class="text-lg font-normal text-gray-500 lg:text-xl mb-4">Best Image Compression Tool: Easily Reduce File Size Without Sacrificing Quality</p>
 
     <!-- FilePond Section -->
@@ -214,11 +214,11 @@
     </div></div>
     </div>
     
-    <footer class="mt-16 border-t border-gray-900/10 pt-8 sm:mt-20 md:flex md:items-center md:justify-between lg:mt-24">
+    <footer class="mt-16 border-t border-gray-900/10 pt-2 sm:mt-20 md:flex md:items-center md:justify-between lg:mt-24">
         <div class="flex gap-x-6 md:order-2">
-          
+
         </div>
-        <p class="mt-8 text-sm/6 text-gray-600 md:order-1 md:mt-0">&copy; 2025 Created by <a class="underline font-semibold" href="https://sinarahmannejad.com/" target="_blank">Sina Rahmannejad.</a></p>
+        <p class="text-sm/6 text-gray-600 md:order-1 md:mt-0">&copy; 2025 Created by <a class="underline font-semibold" href="https://sinarahmannejad.com/" target="_blank">Sina Rahmannejad.</a></p>
       </footer>
   </div>
   <link rel="stylesheet" href="https://rsms.me/inter/inter.css" />
